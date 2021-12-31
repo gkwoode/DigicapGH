@@ -1,4 +1,5 @@
 # DigicapGH
+![foo](https://github.com/gkwoode/DigicapGH/blob/main/DigiCAP.png)
 This contains lesson materials, lesson notes, and other related Data Science stuffs.
 
 | Lesson Number | Topic | Lesson Grouping | Learning Objectives | Linked Files |
