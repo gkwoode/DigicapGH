@@ -1,9 +1,9 @@
 # DigicapGH
 ![foo](https://github.com/gkwoode/DigicapGH/blob/main/DigiCAP.png)
-This contains lesson materials, lesson notes, and other related Data Science stuffs.
+:+1:This contains lesson materials, lesson notes, and other related Data Science stuffs.:computer:
 
 # Data Science
-
+![foo](https://github.com/gkwoode/DigicapGH/blob/main/datascience.jpeg)
 
 # Lesson Note
 | Lesson Number | Topic | Lesson Grouping | Learning Objectives | Linked Files |
