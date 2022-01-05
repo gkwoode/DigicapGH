@@ -1,6 +1,6 @@
 # Microsoft Azure Fundamentals - (AZ-900)
 
-![foo](https://github.com/gkwoode/DigicapGH/blob/main/1-Azure%20Fundamental/azure.png)
+![foo](https://github.com/gkwoode/DigicapGH/blob/main/1-Azure-Fundamentals/azure.png)
 Azure Fundamentals certification is an opportunity to prove knowledge of cloud concepts, Azure services, Azure workloads, security and privacy in Azure, as well as Azure pricing and support. Candidates should be familiar with the general technology concepts, including concepts of networking, storage, compute, application support, and application development.
 
 👍Microsoft Azure Fundamentals Study Guide
