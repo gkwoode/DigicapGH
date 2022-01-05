@@ -7,6 +7,8 @@ It is a spreadsheet program developed by Microsoft. Excel organizes data in colu
 * [Microsoft](https://support.microsoft.com/en-us/office/introduction-to-excel-starter-601794a9-b73d-4d04-b2d4-eed4c40f98be)
 * [W3SCHOOLS](https://www.w3schools.com/excel/index.php)
 * [Guru99](https://www.guru99.com/introduction-to-microsoft-excel.html)
+* [Data Analytics With Excel Full Course | Data Analytics Full Course | Data Analytics | Simplilearn](https://www.youtube.com/watch?v=xhFDYKqWlqw)
+
 
 
 ## Pivot Tables
@@ -20,8 +22,11 @@ A *Pivot Table* is used to summarise, sort, reorganise, group, count, total or a
 * [Pivot Table Excel Tutorial](https://www.youtube.com/watch?v=m0wI61ahfLc&t=396s)
 
 
+
 ## Sorting and Filtering
-There are many built-in Excel tools to help with data management and the *sorting* and *filtering* features are among the best. The *filter* tool gives you the ability to filter a column of data within a table to isolate the key components you need. The *sorting* tool allows you to sort by date, number, alphabetic order and more.
+There are many built-in Excel tools to help with data management and the *sorting* and *filtering* features are among the best. 
+The *filter* tool gives you the ability to filter a column of data within a table to isolate the key components you need. 
+The *sorting* tool allows you to sort by date, number, alphabetic order and more.
 ![foo](https://github.com/gkwoode/DigicapGH/blob/main/2-Excel/sort-and-filter.jpg)
 
 ## Links for Sorting and Filtering
@@ -30,6 +35,15 @@ There are many built-in Excel tools to help with data management and the *sortin
 * [Sorting in Excel - Basics and Beyond](https://www.youtube.com/watch?v=Bm_uWOUiUFI)
 
 
+
 ## Formulas and Functions
+A *formula* is an expression which calculates the value of a cell. 
+*Functions* are predefined formulas and are already available in Excel.
 * [Excel Formulas and Functions Tutorial](https://www.youtube.com/watch?v=Jl0Qk63z2ZY)
 * [Top 10 Most Important Excel Formulas - Made Easy!](https://www.youtube.com/watch?v=ShBTJrdioLo)
+
+
+
+## Excel Dashboards 👍
+An *Excel dashboard* is one-pager (mostly, but not always necessary) that helps managers and business leaders in tracking key KPIs or metrics and take a decision based on it. It contains charts/tables/views that are backed by data.
+ * [How to build Interactive Excel Dashboards that Update with ONE CLICK!](https://www.youtube.com/watch?v=K74_FNnlIF8)
