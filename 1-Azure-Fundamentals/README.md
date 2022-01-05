@@ -4,7 +4,7 @@
 Azure Fundamentals certification is an opportunity to prove knowledge of cloud concepts, Azure services, Azure workloads, security and privacy in Azure, as well as Azure pricing and support. Candidates should be familiar with the general technology concepts, including concepts of networking, storage, compute, application support, and application development.
 
 👍Microsoft Azure Fundamentals Study Guide
-![foo](https://github.com/gkwoode/DigicapGH/blob/main/1-Azure%20Fundamental/AZ-900-Exam-Study-Guide.png)
+![foo](https://github.com/gkwoode/DigicapGH/blob/main/1-Azure-Fundamentals/AZ-900-Exam-Study-Guide.png)
 
 ## Learning paths to gain the skills needed to become certified
 1. [Azure Fundamentals Part-1: Describe cloud concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
