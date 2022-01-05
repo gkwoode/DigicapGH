@@ -8,7 +8,8 @@
 * [Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
 
 ![foo](https://github.com/gkwoode/DigicapGH/blob/main/5-Python/eda.png)
-[Python Tutorial - w3schools](https://www.w3schools.com/python/default.asp)
+* [Python Tutorial - w3schools](https://www.w3schools.com/python/default.asp)
+* [EDA - Quick Introduction](https://www.datasciencecentral.com/profiles/blogs/quick-eda-article)
 
 ## 👍 Some Python Libraries for Data Science
 
