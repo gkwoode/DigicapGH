@@ -17,4 +17,3 @@
 | 7 | Azure Machine Learning  | [Machine Learning](6-Machine-Learning/README.md) | <ul><li>Understand the basic concept of Machine Learning.</li><li>Learn how to use Azure Machine Learning to build and train models.</li></ul> | <ul><li>[Lesson](https://www.geeksforgeeks.org/introduction-machine-learning/)</li><li>[Azure Data Scientist Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist/)</li><li>[Azure Machine Learning Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/)</li></ul> |
 
 
-https://www.youtube.com/watch?v=X7GR4ANn45s
