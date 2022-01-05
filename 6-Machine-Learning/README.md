@@ -17,6 +17,8 @@
 
 You can create a model in Azure Machine Learning or use a model built from an open-source platform, such as Pytorch, TensorFlow, or scikit-learn. MLOps tools help you monitor, retrain, and redeploy models.
 
+[What is Azure Machine Learning service and how data scientists use it](https://www.youtube.com/watch?v=X7GR4ANn45s)
+
 ![foo](https://github.com/gkwoode/DigicapGH/blob/main/6-Machine-Learning/azure-ml.jpeg)
 [Azure Machine Learning Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-machine-learning)
 [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100)
